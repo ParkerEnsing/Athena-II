@@ -39,5 +39,7 @@ This list is certainly not exhaustive, and I encourage readers to explore this r
 ## Useful Resources
 
 ## References
+1. [NASA Systems Engineering Handbook](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY-u6-u4aEAxW_FVkFHeRRCXAQFnoECBMQAQ&url=https%3A%2F%2Fwww.nasa.gov%2Fwp-content%2Fuploads%2F2018%2F09%2Fnasa_systems_engineering_handbook_0.pdf&usg=AOvVaw0eskRV9DfrV5aF7gSrMHAm&opi=89978449)
+2. [MAXWELL Mission Handbook](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNq9jdu4aEAxW8FFkFHW76AYIQFnoECBIQAQ&url=https%3A%2F%2Fs3vi.ndc.nasa.gov%2Fssri-kb%2Fstatic%2Fresources%2Fmaxwell_mission_handbook_released.pdf&usg=AOvVaw0nc03ByIcyxnySIYTmXcji&opi=89978449)
 
 ## License
