@@ -31,7 +31,8 @@ This list is certainly not exhaustive, and I encourage readers to explore this r
 
 ## Mission Objectives
 
-## Dependencies
+## Software and Dependencies
+* [LibreOffice 7.6.4](https://www.libreoffice.org/download/download-libreoffice/)
 
 ## Guide to the Repository
 
