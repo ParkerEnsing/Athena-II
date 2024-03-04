@@ -37,6 +37,10 @@ This list is certainly not exhaustive, and I encourage readers to explore this r
 ## Guide to the Repository
 
 ## Useful Resources
+* [Hardware-in-the-Loop Basics](https://www.mathworks.com/help/simscape/ug/what-is-hardware-in-the-loop-simulation.html)
+* [Hardware-in-the-Loop Simulation Workflow](https://www.mathworks.com/help/simscape/ug/hardware-in-the-loop-simulation-workflow.html)
+* [Real-Time Model Preparation Workflow](https://www.mathworks.com/help/simscape/ug/real-time-model-preparation-workflow.html)
+* [Real-Time Simulation Workflow](https://www.mathworks.com/help/simscape/ug/real-time-simulation-workflow.html)
 
 ## References
 1. [NASA Systems Engineering Handbook](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY-u6-u4aEAxW_FVkFHeRRCXAQFnoECBMQAQ&url=https%3A%2F%2Fwww.nasa.gov%2Fwp-content%2Fuploads%2F2018%2F09%2Fnasa_systems_engineering_handbook_0.pdf&usg=AOvVaw0eskRV9DfrV5aF7gSrMHAm&opi=89978449)
